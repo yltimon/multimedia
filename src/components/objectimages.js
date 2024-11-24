@@ -14,65 +14,65 @@ import twelve from "./images/12.jpeg";
 export const clients = [
     {
         id: 1,
-        name: "Adenkule Gold",
+        name: "pic1",
         img: one,
     },
     {
         id: 2,
-        name: "Balentine's",
+        name: "pic2",
         img: two,
     },
     {
         id: 3,
-        name: "Fenty",
+        name: "pic3",
         img: three,
     },
     {
         id: 4,
-        name: "Fireboy",
+        name: "pic4",
         img: four,
     },
 
 
     {
         id: 5,
-        name: "Focalistic",
+        name: "pic5",
         img: five,
     }
     ,
     {
         id: 6,
-        name: "Jameson Connect",
+        name: "pic6",
         img: six,
     },
     {
         id: 7,
-        name: "Guiness",
+        name: "pic7",
         img: seven,
     },
     {
         id: 8,
-        name: "Joan Melly",
+        name: "pic8",
         img: eight,
     },
     {
         id: 9,
-        name: "Kaneda",
+        name: "pic9",
         img: nine,
     },
     {
         id: 10,
-        name: "NSG",
+        name: "pic10",
         img: ten,
     },
     {
         id: 11,
-        name: "Omah Lay",
+        name: "pic11",
         img: eleven,
     },
     {
         id: 12,
-        name: "Wezzy",
+        name: "pic12",
         img: twelve,
     }
 ];
